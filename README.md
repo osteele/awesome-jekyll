@@ -230,6 +230,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 - [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - A Jekyll Progressive Web App yeoman generator.
 - [Generator Jekyll Plugin](https://github.com/jamrizzi/generator-jekyll-plugin) by [Jam Risser](https://jam.jamrizzi.com) - 💎 Yeoman generator for jekyll plugins
 - [attranslate](https://github.com/fkirc/attranslate) by fkirc - A tool for synchronizing translation-files.
+- [gojekyll](https://github.com/osteele/gojekyll#readme) - a fast re-implementation of Jekyll in the Go programming language
 
 
 ## "Visual" Editors n Tools
